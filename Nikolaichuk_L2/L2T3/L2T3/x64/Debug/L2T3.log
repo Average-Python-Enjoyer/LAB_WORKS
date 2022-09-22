@@ -1,0 +1,3 @@
+﻿  Source.c
+A:\C\Nikolaichuk_L2\L2T3\L2T3\Source.c(14,3): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+  L2T3.vcxproj -> A:\C\Nikolaichuk_L2\L2T3\x64\Debug\L2T3.exe
