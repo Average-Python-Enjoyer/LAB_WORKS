@@ -1,0 +1,13 @@
+﻿  Source.c
+A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\ConsoleApplication1\Source.c(6,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\ConsoleApplication1\Source.c(18,8): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "short *"
+A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\ConsoleApplication1\Source.c(18,8): message : рекомендуется использовать "%ls" в строке форматирования
+A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\ConsoleApplication1\Source.c(18,8): message : рекомендуется использовать "%lls" в строке форматирования
+A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\ConsoleApplication1\Source.c(18,8): message : рекомендуется использовать "%Ls" в строке форматирования
+A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\ConsoleApplication1\Source.c(18,8): message : рекомендуется использовать "%ws" в строке форматирования
+A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\ConsoleApplication1\Source.c(52,8): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "short *"
+A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\ConsoleApplication1\Source.c(52,8): message : рекомендуется использовать "%ls" в строке форматирования
+A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\ConsoleApplication1\Source.c(52,8): message : рекомендуется использовать "%lls" в строке форматирования
+A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\ConsoleApplication1\Source.c(52,8): message : рекомендуется использовать "%Ls" в строке форматирования
+A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\ConsoleApplication1\Source.c(52,8): message : рекомендуется использовать "%ws" в строке форматирования
+  ConsoleApplication1.vcxproj -> A:\C\Nikolaichuk_L3\L3T3\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
