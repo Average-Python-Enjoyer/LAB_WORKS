@@ -1,0 +1,9 @@
+﻿  Source.c
+A:\C\Nikolaichuk_L5\L5T2\ConsoleApplication1\ConsoleApplication1\Source.c(8,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+A:\C\Nikolaichuk_L5\L5T2\ConsoleApplication1\ConsoleApplication1\Source.c(16,11): warning C4013: memory: нет определения; предполагается "extern" с возвратом типа "int"
+A:\C\Nikolaichuk_L5\L5T2\ConsoleApplication1\ConsoleApplication1\Source.c(16,23): warning C4047: =: "int **" отличается по уровням косвенного обращения от "int"
+  func.c
+A:\C\Nikolaichuk_L5\L5T2\ConsoleApplication1\ConsoleApplication1\func.c(25,12): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+A:\C\Nikolaichuk_L5\L5T2\ConsoleApplication1\ConsoleApplication1\func.c(33,12): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  ConsoleApplication1.vcxproj -> A:\C\Nikolaichuk_L5\L5T2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
